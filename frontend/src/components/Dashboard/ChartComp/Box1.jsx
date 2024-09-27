@@ -1,5 +1,7 @@
 
 
+//* Component 
+
 function Box1() {
     return (
         <div>

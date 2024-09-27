@@ -1,5 +1,6 @@
 /* eslint-disable react/prop-types */
 
+import StyleChartcss from './CSS/Chart.module.css' ; 
 
 //* Component 
 

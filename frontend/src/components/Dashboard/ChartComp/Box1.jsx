@@ -4,6 +4,9 @@ import StyleChartcss from './CSS/Chart.module.css' ;
 
 //* Component 
 
+//* Module css
+//* 
+
 function Box1({DataBox1}) {
 
     return (

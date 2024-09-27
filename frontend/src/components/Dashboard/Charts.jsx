@@ -2,6 +2,7 @@
 //* Container of Chart Code 
 //* Create Data of Chart 
 //* Use map method/function
+//* Use jsx ()
 
     import Box1 from "./ChartComp/Box1"
 

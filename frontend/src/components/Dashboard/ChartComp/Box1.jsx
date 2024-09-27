@@ -4,7 +4,7 @@
 
 function Box1() {
     return (
-        <div>
+        <div className="MainBox1">
 
         </div>
     )

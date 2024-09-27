@@ -2,8 +2,10 @@
 
 function Box2() {
     return (
-        <div>
+        <div className="MainBox2">
+            <div className="ContentBox2">
 
+            </div>
         </div>
     )
 }

@@ -1,7 +1,7 @@
 
 //* Container of Chart Code 
 //* Create Data of Chart 
-//* 
+//* Use map method/function
 
     import Box1 from "./ChartComp/Box1"
 

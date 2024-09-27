@@ -2,5 +2,6 @@
 
 
 .MainBox1 {
-    
+    border: 1px solid;
+    width: 300px;  /* *fix-width */
 }

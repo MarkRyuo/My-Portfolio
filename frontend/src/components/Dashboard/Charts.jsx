@@ -8,6 +8,7 @@ function Charts() {
 
     const DataChart = {
         chartData: [{
+            key : "D01",
             Label: "Box1"
         }]
     }

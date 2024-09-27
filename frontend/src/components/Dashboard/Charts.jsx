@@ -8,13 +8,13 @@ function Charts() {
 
     const DataChart = {
         chartData: [{
-            Label: ""
+            Label: "Box1"
         }]
     }
 
     return (
         <div>
-            <Box1 />
+            <Box1 DataBox1={DataChart.chartData}/>
         </div>
     )
 }

@@ -15,7 +15,9 @@
 
         return (
             <div>
-                <Box1 key={DataChart} DataBox1={DataChart.chartData}/>
+                {DataChart.chartData.map((data) => (
+                    <Box1 key={data.key} DataBox1={data.Label}/>
+                ))}
             </div>
         )
     }

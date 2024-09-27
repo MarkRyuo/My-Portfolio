@@ -5,7 +5,7 @@ import StyleChartcss from './CSS/Chart.module.css' ;
 //* Component 
 
 //* Module css
-//* 
+//* Props
 
 function Box1({DataBox1}) {
 

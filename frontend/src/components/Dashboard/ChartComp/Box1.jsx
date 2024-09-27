@@ -6,11 +6,6 @@ import StyleChartcss from './CSS/Chart.module.css' ;
 
 function Box1({DataBox1}) {
 
-    const DataChart = {
-        
-    }
-
-
     return (
         <div className={StyleChartcss.MainBox1}>
             <div className="ContentBox1">

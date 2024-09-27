@@ -7,7 +7,9 @@ import Box1 from "./ChartComp/Box1"
 function Charts() {
 
     const DataChart = {
-        
+        chartData: [{
+            Label: ""
+        }]
     }
 
     return (

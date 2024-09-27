@@ -1,9 +1,8 @@
 
 //* Container of Chart Code 
-//* Create Data of Chart 
+//* Create Data of Chart with unique identifier
 //* Use map method/function
 //* Use jsx ()
-
     import Box1 from "./ChartComp/Box1"
 
     function Charts() {

@@ -1,15 +1,11 @@
 
 
-
-
-import React from 'react'
-
 function Box2() {
-  return (
-    <div>
-      
-    </div>
-  )
+    return (
+        <div>
+
+        </div>
+    )
 }
 
 export default Box2

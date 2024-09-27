@@ -1,6 +1,6 @@
 
 
-    // * Pag-lalagyan ng Chart Code 
+    // * Container of Chart Code 
 
     import Box1 from "./ChartComp/Box1"
 

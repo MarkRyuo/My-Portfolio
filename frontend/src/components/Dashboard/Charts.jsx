@@ -1,5 +1,7 @@
 
 
+// * Pag-lalagyan ng Chart Code 
+
 function Charts() {
     return (
         <div>

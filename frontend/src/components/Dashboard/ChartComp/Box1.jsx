@@ -2,13 +2,13 @@
 
 //* Component 
 
-function Box1(props) {
+function Box1({DataBox1}) {
 
 
     return (
         <div className="MainBox1">
             <div className="ContentBox1">
-                {props.DataBox1}
+                {DataBox1}
             </div>
         </div>
     )

@@ -5,6 +5,8 @@
 //* Use jsx ()
     import Box1 from "./ChartComp/Box1"
 
+    import { useState } from "react"
+
     function Charts() {
 
         const DataChart = {
@@ -13,6 +15,9 @@
                 Label: "Box1"
             }]
         }
+        
+        const [Clicked, setClicked] = useState()
+
 
         return (
             <div>

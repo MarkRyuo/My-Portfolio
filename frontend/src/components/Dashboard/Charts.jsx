@@ -16,9 +16,13 @@
 
         return (
             <div>
-                {DataChart.chartData.map((data) => (
+                {/* {DataChart.chartData.map((data) => (
                     <Box1 key={data.key} DataBox1={data.Label}/>
-                ))}
+                ))} */}
+
+                <button type="button" onClick={(data) => (
+                    <Box1 key={data.key} DataBox1={data.Label} />
+                )}></button>
             </div>
         )
     }

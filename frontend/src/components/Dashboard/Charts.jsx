@@ -20,7 +20,7 @@
                     <Box1 key={data.key} DataBox1={data.Label}/>
                 ))}
 
-                <button type="button" onClick={() => }></button>
+                <button type="button" onClick={}></button>
             </div>
         )
     }

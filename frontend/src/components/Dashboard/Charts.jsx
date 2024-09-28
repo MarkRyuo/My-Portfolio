@@ -16,16 +16,20 @@
             }]
         }
         
-        const [Clicked, setClicked] = useState()
+        const [Clicked, setClicked] = useState() ;
+
+        const HandleClicked = () => setClicked({DataChart.chartData.map(()=> (
+            <Box1 key={data.key} DataBox1={data.Label} />
+        ))})
 
 
         return (
             <div>
-                {DataChart.chartData.map((data) => (
+                {/* {DataChart.chartData.map((data) => (
                     <Box1 key={data.key} DataBox1={data.Label}/>
-                ))}
+                ))} */}
 
-                <button type="button">Click This</button>
+                <button type="button" onClick={HandleClicked()}>Click This</button>
             </div>
         )
     }

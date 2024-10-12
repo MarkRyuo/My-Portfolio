@@ -19,3 +19,8 @@ function Box1({DataBox1}) {
 }
 
 export default Box1
+
+
+
+
+
